@@ -2,8 +2,8 @@
  A Star pathfinding algorithm
 
 # Installation
-Simply add the "AStar.cpp" and "AStar.h" files to your project.
-Include them like so: #include "AStar.h".
+Simply add the "Astar.cpp" and "Astar.h" files to your project.
+Include them like so: #include "Astar.h".
 
 # Usage
 It is used to find a path from point A to point B in a grid based system.
